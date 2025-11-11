@@ -1,4 +1,4 @@
-![S/4HANA 2025 Cover Image] (s4hana-thebest.png)
+![S/4HANA 2025 Cover Image] s4hana-thebest.png
 # S/4HANA in 2025: What Smart Enterprises Are Doing Differently  
 **By Veera T | SAP & IT Consultant | ERP Strategy & Transformation Advisor**
 
