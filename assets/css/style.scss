@@ -1,9 +1,30 @@
 ---
 ---
 
-.hero {
+/* Hide unwanted global header and navigation */
+header, .site-header, .page-header, .site-title, .site-description, .site-nav, .page-header > a, .site-footer a[href*="#skip"] {
   display: none !important;
 }
+
+/* Center all markdown article content */
+main, article, section, body {
+  text-align: center !important;
+  margin: 0 auto !important;
+  max-width: 900px;
+}
+
+/* Center images and make them responsive */
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 90%;
+  height: auto;
+}
+
+/* Optional: improve overall readability */
 body {
-  margin-top: 0 !important;
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #222;
+  background-color: #fff;
 }
