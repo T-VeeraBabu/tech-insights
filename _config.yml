@@ -8,3 +8,5 @@ markdown: GFM
 github:
   is_project_page: true
   repository_url: "https://github.com/T-VeeraBabu/tech-insights"
+show_downloads: false
+header_image: s4hana-thebest.png
