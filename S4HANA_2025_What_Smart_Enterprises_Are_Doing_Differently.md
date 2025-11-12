@@ -1,3 +1,11 @@
+<style>
+/* hide the top site header area on this page */
+a[href="#content"], .site-header, header, .hero, .page-title { display:none !important; }
+/* ensure body content starts nicely */
+body { padding-top: 0 !important; }
+</style>
+
+
 <!-- START: page wrapper to center content -->
 <div style="max-width:900px;margin:30px auto; padding:0 16px;">
 
