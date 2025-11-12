@@ -1,20 +1,24 @@
+<!-- page wrapper: centers the content column -->
+<div style="max-width:980px; margin:30px auto; padding:0 18px;">
 
-<!-- page wrapper to center content -->
-<div style="max-width:900px;margin:30px auto;padding:0 16px;">
+  <!-- banner image (full width of content column) -->
+  <img src="/s4hana-thebest.png" alt="S/4HANA 2025" style="width:100%; height:auto; display:block; margin:0 auto 28px; border-radius:6px;"/>
 
-<!-- banner image (centered) - keep alt text for accessibility -->
-<p style="text-align:center;margin:0 0 18px 0;">
-  <img src="/s4hana-thebest.png" alt="S/4HANA 2025 banner" style="width:100%;height:auto;display:inline-block;max-width:820px;border-radius:6px;"/>
-</p>
+  <!-- centered title + byline -->
+  <h1 style="text-align:center; margin:0 0 8px 0; font-size:2.2rem; line-height:1.15;">
+    S/4HANA in 2025: What Smart Enterprises Are Doing Differently
+  </h1>
 
-<!-- title and byline -->
-<h1 style="text-align:center;margin:8px 0 4px 0;">S/4HANA in 2025: What Smart Enterprises Are Doing Differently</h1>
-<p style="text-align:center;color:#666;margin:0 0 22px 0;"><strong>By Veera T</strong> | SAP &amp; IT Consultant | ERP Strategy &amp; Transformation Advisor</p>
+  <p style="text-align:center; color:#666; margin:0 0 22px 0;">
+    <strong>By Veera T</strong> | SAP &amp; IT Consultant | ERP Strategy &amp; Transformation Advisor
+  </p>
 
-<!-- keep the readable markdown below — start article content here -->
+  <hr style="margin:18px 0 30px 0; border:none; border-top:1px solid #e0e0e0;" />
+
+  <!-- BEGIN: markdown content (the rest will render as markdown below) -->
 </div>
 
----
+<!-- keep a blank line and then the markdown content below (no extra raw CSS above) -->
 
 ## Introduction  
 
