@@ -1,15 +1,18 @@
 
+<!-- page wrapper to center content -->
+<div style="max-width:900px;margin:30px auto;padding:0 16px;">
 
-<!-- START: page wrapper to center content -->
-<div style="max-width:900px;margin:30px auto; padding:0 16px;">
+<!-- banner image (centered) - keep alt text for accessibility -->
+<p style="text-align:center;margin:0 0 18px 0;">
+  <img src="/s4hana-thebest.png" alt="S/4HANA 2025 banner" style="width:100%;height:auto;display:inline-block;max-width:820px;border-radius:6px;"/>
+</p>
 
+<!-- title and byline -->
+<h1 style="text-align:center;margin:8px 0 4px 0;">S/4HANA in 2025: What Smart Enterprises Are Doing Differently</h1>
+<p style="text-align:center;color:#666;margin:0 0 22px 0;"><strong>By Veera T</strong> | SAP &amp; IT Consultant | ERP Strategy &amp; Transformation Advisor</p>
 
-
-<!-- centered title and byline -->
-<h1 style="text-align:center;margin:0 0 8px 0;">S/4HANA in 2025: What Smart Enterprises Are Doing Differently</h1>
-<p style="text-align:center;color:#666;margin-top:0;margin-bottom:18px;"><strong>By Veera T</strong> | SAP &amp; IT Consultant | ERP Strategy &amp; Transformation Advisor</p>
-
-<!-- keep the rest of the markdown below this wrapper -->
+<!-- keep the readable markdown below — start article content here -->
+</div>
 
 
 
