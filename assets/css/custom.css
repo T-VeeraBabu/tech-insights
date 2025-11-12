@@ -1,17 +1,55 @@
-/* Hide top GitHub Pages Cayman theme header & skip link */
-header, .site-header, .page-header, a[href="#content"], .project-name, .project-tagline {
+/* ===== Hide GitHub Pages top header and skip link ===== */
+a[href="#content"],
+header,
+.site-header,
+.page-header,
+.hero,
+.header,
+.project-name,
+.project-tagline,
+.site-header--container,
+.header-wrapper,
+.site-header .search,
+.site-header .repo,
+.page-title {
   display: none !important;
 }
 
-/* Compact the top space */
+/* make sure body starts at top */
 body {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
 
-/* Center main content nicely */
-.main-content {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 20px;
+/* center main content and make it readable */
+.wrapper,
+.site-content,
+.main-content,
+.content,
+#content,
+.container,
+.post {
+  max-width: 900px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+/* remove outer card look if theme adds it */
+.post,
+.page {
+  box-shadow: none !important;
+  border: none !important;
+  background: transparent !important;
+}
+
+/* ensure large images scale */
+.post img,
+.content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
