@@ -123,3 +123,10 @@ Because in 2025 and beyond, that is what truly characterises a sensible enterpri
 
 </div>
 <!-- END: page wrapper -->
+
+/* hide top image caption text that shows before render */
+img[alt="S/4HANA 2025"] {
+  font-size: 0 !important;
+  color: transparent !important;
+}
+
