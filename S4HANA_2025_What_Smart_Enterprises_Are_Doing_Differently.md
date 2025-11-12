@@ -3,8 +3,7 @@
 <!-- START: page wrapper to center content -->
 <div style="max-width:900px;margin:30px auto; padding:0 16px;">
 
-<!-- banner image (full width of the content column) -->
-<img src="/s4hana-thebest.png" alt="S/4HANA 2025" style="width:100%;height:auto;display:block;margin:0 auto 28px;"/>
+
 
 <!-- centered title and byline -->
 <h1 style="text-align:center;margin:0 0 8px 0;">S/4HANA in 2025: What Smart Enterprises Are Doing Differently</h1>
@@ -123,10 +122,4 @@ Because in 2025 and beyond, that is what truly characterises a sensible enterpri
 
 </div>
 <!-- END: page wrapper -->
-
-/* hide top image caption text that shows before render */
-img[alt="S/4HANA 2025"] {
-  font-size: 0 !important;
-  color: transparent !important;
-}
 
