@@ -14,6 +14,9 @@ show_downloads: false
 image: "/s4hana-thebest.png"     # used by some SEO / social tags
 header_image: s4hana-thebest.png
 
+include:
+  - assets/css/custom.css
+
 
 title: "Tech Insights by Veera T"
 description: "Deep insights on Enterprise Technology, SAP S/4HANA Transformation, and AI-led Business Strategy."
@@ -27,3 +30,8 @@ github:
   repository_url: "https://github.com/T-VeeraBabu/tech-insights"
 show_downloads: false
 header_image: s4hana-thebest.png
+
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+
