@@ -1,0 +1,17 @@
+/* Hide unwanted top header and link area for a clean article look */
+header, .site-header, a[href="#content"], .page-header, .project-name, .project-tagline {
+  display: none !important;
+}
+
+/* Reduce top spacing so article starts naturally */
+body {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Keep main article nicely centered */
+.main-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
