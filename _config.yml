@@ -9,4 +9,21 @@ github:
   is_project_page: true
   repository_url: "https://github.com/T-VeeraBabu/tech-insights"
 show_downloads: false
+
+# IMAGE SETTINGS (add these two lines)
+image: "/s4hana-thebest.png"     # used by some SEO / social tags
+header_image: s4hana-thebest.png
+
+
+title: "Tech Insights by Veera T"
+description: "Deep insights on Enterprise Technology, SAP S/4HANA Transformation, and AI-led Business Strategy."
+theme: jekyll-theme-cayman
+author: "Veera T"
+url: "https://t-veerababu.github.io/tech-insights/"
+show_downloads: false
+markdown: GFM
+github:
+  is_project_page: true
+  repository_url: "https://github.com/T-VeeraBabu/tech-insights"
+show_downloads: false
 header_image: s4hana-thebest.png
