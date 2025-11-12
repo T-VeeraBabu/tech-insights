@@ -1,15 +1,15 @@
-/* Hide unwanted top header and link area for a clean article look */
-header, .site-header, a[href="#content"], .page-header, .project-name, .project-tagline {
+/* Hide top GitHub Pages Cayman theme header & skip link */
+header, .site-header, .page-header, a[href="#content"], .project-name, .project-tagline {
   display: none !important;
 }
 
-/* Reduce top spacing so article starts naturally */
+/* Compact the top space */
 body {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
 
-/* Keep main article nicely centered */
+/* Center main content nicely */
 .main-content {
   max-width: 900px;
   margin: 0 auto;
