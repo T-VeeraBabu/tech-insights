@@ -1,3 +1,17 @@
+<!-- START: page wrapper to center content -->
+<div style="max-width:900px;margin:30px auto; padding:0 16px;">
+
+<!-- banner image (full width of the content column) -->
+<img src="/s4hana-thebest.png" alt="S/4HANA 2025" style="width:100%;height:auto;display:block;margin:0 auto 28px;"/>
+
+<!-- centered title and byline -->
+<h1 style="text-align:center;margin:0 0 8px 0;">S/4HANA in 2025: What Smart Enterprises Are Doing Differently</h1>
+<p style="text-align:center;color:#666;margin-top:0;margin-bottom:18px;"><strong>By Veera T</strong> | SAP &amp; IT Consultant | ERP Strategy &amp; Transformation Advisor</p>
+
+<!-- keep the rest of the markdown below this wrapper -->
+
+
+
 ![S/4HANA 2025 Banner](https://t-veerababu.github.io/tech-insights/s4hana-thebest.png)
 # S/4HANA in 2025: What Smart Enterprises Are Doing Differently  
 **By Veera T | SAP & IT Consultant | ERP Strategy & Transformation Advisor**
@@ -104,3 +118,6 @@ Because in 2025 and beyond, that is what truly characterises a sensible enterpri
 **Tags:** #SAP #S4HANA #DigitalTransformation #ERPStrategy #SAPConsulting #BusinessIntegration #ChangeManagement #DataGovernance #AIinSAP  
 
 © 2025 Veera T — *Tech Insights*
+
+</div>
+<!-- END: page wrapper -->
