@@ -2,7 +2,8 @@
 <div style="max-width:980px; margin:30px auto; padding:0 18px;">
 
   <!-- banner image (full width of content column) -->
-  <img src="/s4hana-thebest.png" alt="S/4HANA 2025" style="width:100%; height:auto; display:block; margin:0 auto 28px; border-radius:6px;"/>
+  <img src="https://t-veerababu.github.io/tech-insights/s4hana-thebest.png" alt="S/4HANA 2025" style="width:100%; height:auto; display:block; margin:0 auto 28px; border-radius:6px;" />
+
 
   <!-- centered title + byline -->
   <h1 style="text-align:center; margin:0 0 8px 0; font-size:2.2rem; line-height:1.15;">
