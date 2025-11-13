@@ -1,3 +1,6 @@
+banner: ecc-cloud-blindspots.png
+
+
 ---
 layout: default
 title: "From ECC to Cloud ERP: The Migration Blind Spots Few Discuss"
@@ -6,7 +9,9 @@ description: "The overlooked behavioural, data, and change-management pitfalls t
 
 <div style="max-width: 820px; margin: 0 auto; text-align: center;">
 
-<img src="ecc-cloud-blindspots.png" alt="" style="width: 100%; margin-bottom: 30px; border-radius: 10px;">
+<img src="/tech-insights/ecc-cloud-blindspots.png" alt="ECC to Cloud ERP" 
+style="width:100%; height:auto; display:block; margin:0 auto 30px; border-radius:8px;" />
+
 
 # From ECC to Cloud ERP: The Migration Blind Spots Few Discuss
 ### *By Veera T — SAP & IT Consultant | ERP Strategy & Transformation Advisor*
