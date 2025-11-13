@@ -1,17 +1,14 @@
-banner: ecc-cloud-blindspots.png
-
-
 ---
 layout: default
 title: "From ECC to Cloud ERP: The Migration Blind Spots Few Discuss"
 description: "The overlooked behavioural, data, and change-management pitfalls that quietly derail ECC to S/4HANA and Cloud ERP migrations."
+banner: ecc-cloud-blindspots.png
 ---
 
 <div style="max-width: 820px; margin: 0 auto; text-align: center;">
 
-<img src="/tech-insights/ecc-cloud-blindspots.png" alt="ECC to Cloud ERP" 
+<img src="/tech-insights/ecc-cloud-blindspots.png" alt="ECC to Cloud ERP"
 style="width:100%; height:auto; display:block; margin:0 auto 30px; border-radius:8px;" />
-
 
 # From ECC to Cloud ERP: The Migration Blind Spots Few Discuss
 ### *By Veera T — SAP & IT Consultant | ERP Strategy & Transformation Advisor*
@@ -21,6 +18,7 @@ style="width:100%; height:auto; display:block; margin:0 auto 30px; border-radius
 </div>
 
 ### **Introduction**
+
 Moving from ECC to S/4HANA or a cloud ERP platform is now considered inevitable for most enterprises — but inevitability doesn’t mean clarity.
 
 Everyone knows the migration must happen, yet few acknowledge the blind spots that quietly derail timelines and trust. It’s not the big architectural decisions that cause pain — it’s the overlooked details that ripple across code, data, and people.
