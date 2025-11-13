@@ -15,3 +15,7 @@ plugins:
   - jekyll-seo-tag
 include:
   - assets/css/custom.css
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
