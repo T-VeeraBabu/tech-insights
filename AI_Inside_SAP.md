@@ -6,7 +6,7 @@ description: "How AI, predictive maintenance, intelligent RPA, and machine learn
 
 <div style="max-width: 820px; margin: 0 auto; text-align: center;">
 
-<img src="/tech-insights/ai-inside.png" alt="AI Inside SAP" 
+<img src="/tech-insights/ai-inside-sap.png" alt="AI Inside SAP" 
 style="width:100%; height:auto; display:block; margin:0 auto 30px; border-radius:8px;" />
 
 # AI Inside SAP: Where Automation is Quietly Transforming Operations
