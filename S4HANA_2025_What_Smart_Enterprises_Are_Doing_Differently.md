@@ -125,3 +125,4 @@ Because in 2025 and beyond, that is what truly characterises a sensible enterpri
 </div>
 <!-- END: page wrapper -->
 
+- [S/4HANA in 2025 — What Smart Enterprises Are Doing Differently](S4HANA_2025_What_Smart_Enterprises_Are_Doing_Differently.html)  
