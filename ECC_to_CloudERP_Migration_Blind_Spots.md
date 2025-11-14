@@ -94,3 +94,5 @@ Cloud ERP migration is not a sprint to new infrastructure — it’s a careful r
 - Simulate 5–10 decision moments, not just UI training.  
 
 **Tags:** #SAP #S4HANA #CloudERP #Migration #DataGovernance #ChangeManagement #ERPStrategy
+
+- [From ECC to Cloud ERP — The Migration Blind Spots Few Discuss](ECC_to_CloudERP_Migration_Blind_Spots.html)
