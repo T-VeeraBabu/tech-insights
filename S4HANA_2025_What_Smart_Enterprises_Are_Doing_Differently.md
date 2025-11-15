@@ -1,34 +1,12 @@
 ---
 layout: default
 title: "S/4HANA in 2025: What Smart Enterprises Are Doing Differently"
-permalink: /S4HANA_2025_What_Smart_Enterprises_Are_Doing_Differently/
+permalink: /S4HANA_2025_What_Smart_Enterprises_Are_Doing_Differently.html
 ---
 
-layout: default
-title: S/4HANA in 2025: What Smart Enterprises Are Doing Differently
+![S/4HANA 2025](/s4hana-thebest.png)
 
-<!-- page wrapper: centers the content column -->
-<div style="max-width:980px; margin:30px auto; padding:0 18px;">
-
-  <!-- banner image (full width of content column) -->
-  <img src="https://t-veerababu.github.io/tech-insights/s4hana-thebest.png" alt="S/4HANA 2025" style="width:100%; height:auto; display:block; margin:0 auto 28px; border-radius:6px;" />
-
-
-  <!-- centered title + byline -->
-  <h1 style="text-align:center; margin:0 0 8px 0; font-size:2.2rem; line-height:1.15;">
-    S/4HANA in 2025: What Smart Enterprises Are Doing Differently
-  </h1>
-
-  <p style="text-align:center; color:#666; margin:0 0 22px 0;">
-    <strong>By Veera T</strong> | SAP &amp; IT Consultant | ERP Strategy &amp; Transformation Advisor
-  </p>
-
-  <hr style="margin:18px 0 30px 0; border:none; border-top:1px solid #e0e0e0;" />
-
-  <!-- BEGIN: markdown content (the rest will render as markdown below) -->
-</div>
-
-<!-- keep a blank line and then the markdown content below (no extra raw CSS above) -->
+# S/4HANA in 2025: What Smart Enterprises Are Doing Differently
 
 ## Introduction  
 
@@ -129,10 +107,5 @@ Because in 2025 and beyond, that is what truly characterises a sensible enterpri
 
 **Tags:** #SAP #S4HANA #DigitalTransformation #ERPStrategy #SAPConsulting #BusinessIntegration #ChangeManagement #DataGovernance #AIinSAP  
 
-© 2025 Veera T — *Tech Insights*
-
-</div>
-<!-- END: page wrapper -->
-
-- [S/4HANA in 2025 — What Smart Enterprises Are Doing Differently](S4HANA_2025_What_Smart_Enterprises_Are_Doing_Differently.html)
+© 2025 T Veera Babu — *Tech Insights*
   
