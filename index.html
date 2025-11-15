@@ -1,27 +1,47 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Project Title</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My Project README</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown.min.css">
+    
     <style>
-        body {
-            margin: 0;
-            padding: 0;
-            /* Hide any scrollbars from the main page */
-            overflow: hidden; 
-        }
-        #readme-frame {
-            /* Make the iframe cover the entire browser window */
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border: none; /* Remove border for seamless look */
+        /* Apply basic container styles for the Markdown content */
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
         }
     </style>
 </head>
 <body>
-    <iframe id="readme-frame" src="README.md"></iframe>
+
+    <div id="content" class="markdown-body">
+        Loading README...
+    </div>
+
+    <script>
+        fetch('README.md')
+            .then(response => {
+                // Check if the file was successfully loaded
+                if (!response.ok) {
+                    throw new Error('Could not load README.md');
+                }
+                return response.text();
+            })
+            .then(markdownText => {
+                // Use Marked.js to convert the Markdown text to HTML
+                const html = marked.parse(markdownText);
+                
+                // Insert the generated HTML into the 'content' div
+                document.getElementById('content').innerHTML = html;
+            })
+            .catch(error => {
+                document.getElementById('content').innerHTML = `<p style="color:red;">Error loading README: ${error.message}</p>`;
+            });
+    </script>
 </body>
 </html>
