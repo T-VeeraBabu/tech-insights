@@ -1,30 +1,13 @@
 ---
 layout: default
 title: "AI Inside SAP: Where Automation Is Quietly Transforming Operations"
-permalink: /AI_Inside_SAP/
+permalink: /AI_Inside_SAP.html
 ---
 
+![AI inside SAP](/ai-inside-sap.png)
 
-layout: default
-title: AI Inside SAP – Where Automation Is Quietly Transforming Operations
+# AI Inside SAP: Where Automation Is Quietly Transforming Operations
 
----
-layout: default
-title: "AI Inside SAP: Where Automation is Quietly Transforming Operations"
-description: "How AI, predictive maintenance, intelligent RPA, and machine learning are quietly reshaping SAP-driven operations."
----
-
-<div style="max-width: 820px; margin: 0 auto; text-align: center;">
-
-<img src="/tech-insights/ai-inside-sap.png" alt="AI Inside SAP" 
-style="width:100%; height:auto; display:block; margin:0 auto 30px; border-radius:8px;" />
-
-# AI Inside SAP: Where Automation is Quietly Transforming Operations
-### *Tech Insights by Veera T*
-
-<hr style="margin: 40px 0;">
-
-</div>
 
 ### **Introduction**
 
@@ -130,3 +113,4 @@ Quiet improvements.
 Consistent wins.  
 Meaningful transformation.
 
+**Tags:** #AI #Automation #SAP #Predictive #ProcessMining #Analytics
