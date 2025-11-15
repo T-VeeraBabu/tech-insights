@@ -1,2 +1,1 @@
-git mv index.html old_index.html
-git mv customm.css old_customm.css
+git commit -m "Renamed locked files to break the GitHub Pages lock"
