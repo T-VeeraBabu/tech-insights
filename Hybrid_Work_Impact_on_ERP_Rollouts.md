@@ -1,3 +1,9 @@
+---
+layout: default
+title: "How Hybrid Work Has Affected ERP Rollouts"
+permalink: /Hybrid_Work_Impact_on_ERP_Rollouts/
+---
+
 
 layout: default
 title: How Hybrid Work Has Affected ERP Rollouts
