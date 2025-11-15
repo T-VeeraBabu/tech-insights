@@ -2,8 +2,6 @@
 layout: default
 title: S/4HANA in 2025: What Smart Enterprises Are Doing Differently
 
-
-
 <!-- page wrapper: centers the content column -->
 <div style="max-width:980px; margin:30px auto; padding:0 18px;">
 
@@ -131,4 +129,5 @@ Because in 2025 and beyond, that is what truly characterises a sensible enterpri
 </div>
 <!-- END: page wrapper -->
 
-- [S/4HANA in 2025 — What Smart Enterprises Are Doing Differently](S4HANA_2025_What_Smart_Enterprises_Are_Doing_Differently.html)  
+- [S/4HANA in 2025 — What Smart Enterprises Are Doing Differently](S4HANA_2025_What_Smart_Enterprises_Are_Doing_Differently.html)
+  
