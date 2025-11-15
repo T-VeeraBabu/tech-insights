@@ -1,1 +1,1 @@
-git commit -m "Removed index.html file"
+git push origin main
