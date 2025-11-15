@@ -1,9 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="refresh" content="0; url=README.md" />
+    <title>Your Project Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            /* Hide any scrollbars from the main page */
+            overflow: hidden; 
+        }
+        #readme-frame {
+            /* Make the iframe cover the entire browser window */
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none; /* Remove border for seamless look */
+        }
+    </style>
 </head>
 <body>
-    <h1>Redirecting to README.md...</h1>
+    <iframe id="readme-frame" src="README.md"></iframe>
 </body>
 </html>
