@@ -1,3 +1,10 @@
+---
+layout: default
+title: "AI Inside SAP: Where Automation Is Quietly Transforming Operations"
+permalink: /AI_Inside_SAP/
+---
+
+
 layout: default
 title: AI Inside SAP – Where Automation Is Quietly Transforming Operations
 
