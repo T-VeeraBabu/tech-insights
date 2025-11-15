@@ -1,3 +1,7 @@
+
+layout: default
+title: From ECC to Cloud ERP – The Migration Blind Spots Few Discuss
+
 ---
 layout: default
 title: "From ECC to Cloud ERP: The Migration Blind Spots Few Discuss"
