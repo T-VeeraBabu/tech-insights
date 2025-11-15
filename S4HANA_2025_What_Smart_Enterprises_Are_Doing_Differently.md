@@ -1,3 +1,9 @@
+---
+layout: default
+title: S/4HANA in 2025: What Smart Enterprises Are Doing Differently
+---
+
+
 <!-- page wrapper: centers the content column -->
 <div style="max-width:980px; margin:30px auto; padding:0 18px;">
 
