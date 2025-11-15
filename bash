@@ -1,1 +1,1 @@
-cd /path/to/your/tech-insights
+git rm index.html
