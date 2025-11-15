@@ -1,3 +1,8 @@
+---
+layout: default
+title: "S/4HANA in 2025: What Smart Enterprises Are Doing Differently"
+permalink: /S4HANA_2025_What_Smart_Enterprises_Are_Doing_Differently/
+---
 
 layout: default
 title: S/4HANA in 2025: What Smart Enterprises Are Doing Differently
