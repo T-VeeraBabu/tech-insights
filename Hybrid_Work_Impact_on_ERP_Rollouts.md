@@ -1,3 +1,8 @@
+
+layout: default
+title: How Hybrid Work Has Affected ERP Rollouts
+
+
 ---
 title: "How Hybrid Work Has Affected ERP Rollouts"
 description: "Practical guidance for designing ERP rollouts for hybrid work: resilient access, embedded collaboration, and moment-of-need training."
