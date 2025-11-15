@@ -1,7 +1,7 @@
 # Tech Insights by T Veera Babu
 
 Deep, practical insights on **Enterprise Technology**, **SAP S/4HANA transformation**, and **Artificial Intelligence**.  
-Authored by *T Veera Babu* — SAP & IT Consultant, ERP Strategy & Transformation Advisor.
+Authored by *Veera T* — SAP & IT Consultant, ERP Strategy & Transformation Advisor.
 
 🌐 **Live Blog:** https://t-veerababu.github.io/tech-insights/
 
