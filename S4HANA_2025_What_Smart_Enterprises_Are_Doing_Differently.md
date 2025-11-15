@@ -1,7 +1,7 @@
----
+
 layout: default
 title: S/4HANA in 2025: What Smart Enterprises Are Doing Differently
----
+
 
 
 <!-- page wrapper: centers the content column -->
