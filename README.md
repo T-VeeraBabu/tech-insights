@@ -1,7 +1,7 @@
 # Tech Insights by T Veera Babu
 
 Deep, practical insights on **Enterprise Technology**, **SAP S/4HANA transformation**, and **Artificial Intelligence**.  
-Authored by *Veera T* — SAP & IT Consultant, ERP Strategy & Transformation Advisor.
+Authored by *T Veera Babu* — SAP & IT Consultant, ERP Strategy & Transformation Advisor.
 
 🌐 **Live Blog:** https://t-veerababu.github.io/tech-insights/
 
@@ -44,4 +44,4 @@ A hybrid-first approach for designing resilient ERP rollouts: distributed access
 
 ---
 
-© 2025 Veera T. All rights reserved.
+© 2025 T Veera Babu. All rights reserved.
