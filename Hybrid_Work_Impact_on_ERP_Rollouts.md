@@ -1,21 +1,10 @@
 ---
 layout: default
 title: "How Hybrid Work Has Affected ERP Rollouts"
-permalink: /Hybrid_Work_Impact_on_ERP_Rollouts/
+permalink: /Hybrid_Work_Impact_on_ERP_Rollouts.html
 ---
 
-
-layout: default
-title: How Hybrid Work Has Affected ERP Rollouts
-
----
-title: "How Hybrid Work Has Affected ERP Rollouts"
-description: "Practical guidance for designing ERP rollouts for hybrid work: resilient access, embedded collaboration, and moment-of-need training."
-tags: [ERP, HybridWork, S4HANA, DigitalTransformation, SAPConsulting, ChangeManagement, UserAdoption]
-date: 2025-11-11
----
-
-![Hybrid work and ERP banner](./hybrid-erp.png)
+![Hybrid Work & ERP](/hybrid-erp.png)
 
 # How Hybrid Work Has Affected ERP Rollouts
 
