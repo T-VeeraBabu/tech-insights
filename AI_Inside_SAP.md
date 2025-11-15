@@ -1,3 +1,7 @@
+
+layout: default
+title: AI Inside SAP – Where Automation Is Quietly Transforming Operations
+
 ---
 layout: default
 title: "AI Inside SAP: Where Automation is Quietly Transforming Operations"
