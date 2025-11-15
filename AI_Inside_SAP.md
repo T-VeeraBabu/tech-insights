@@ -1,4 +1,3 @@
-
 layout: default
 title: AI Inside SAP – Where Automation Is Quietly Transforming Operations
 
