@@ -1,1 +1,1 @@
-git rm index.html
+git commit -m "Removed index.html file"
