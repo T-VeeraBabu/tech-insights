@@ -7,7 +7,7 @@ Authored by *T Veera Babu* — SAP & IT Consultant, ERP Strategy & Transformatio
 
 ## Latest Articles
 
-- **[S/4HANA in 2025: What Smart Enterprises Are Doing Differently](S4HANA_2025_What_Smart_Enterprises_Are_Doing_Differently.md)**
+- **[S/4HANA in 2025: What Smart Enterprises Are Doing Differently](https://t-veerababu.github.io/tech-insights/Hybrid_Work_Impact_on_ERP_Rollouts.html)**
 - **[From ECC to Cloud ERP: The Migration Blind Spots Few Discuss](ECC_to_CloudERP_Migration_Blind_Spots.md)**
 - **[AI Inside SAP: Where Automation Is Quietly Transforming Operations](AI_Inside_SAP.md)**
 - **[How Hybrid Work Has Affected ERP Rollouts](Hybrid_Work_Impact_on_ERP_Rollouts.md)**
