@@ -1,1 +1,1 @@
-git push origin main
+git rm index.html customm.css
