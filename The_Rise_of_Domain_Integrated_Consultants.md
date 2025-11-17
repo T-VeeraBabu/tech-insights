@@ -1,3 +1,6 @@
+<img src="./assets/images/Domain_Integrated_Consultants_Banner.png" alt="Domain Integrated Consultants Banner" width="100%" />
+
+
 # The Rise of Domain-Integrated Consultants: Why You Should Become One  
 ### An Objective Assessment of Evolving Enterprise Consulting Needs
 
