@@ -1,4 +1,4 @@
-<img src="./assets/images/Domain_Integrated_Consultants_Banner.png" alt="Domain Integrated Consultants Banner" width="100%" />
+<img src="./Domain_Integrated_Consultants_Banner.png" alt="Domain Integrated Consultants Banner" width="100%" />
 
 
 # The Rise of Domain-Integrated Consultants: Why You Should Become One  
